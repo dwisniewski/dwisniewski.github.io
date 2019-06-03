@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "mgr inż. (MSc Eng)"
+title                    : "Dawid Wiśniewski - personal site"
 title_separator          : "-"
 name                     : &name "Dawid Wiśniewski"
 description              : &description "Research & teaching assistant at Poznan University of Technology / Senior Deep Learning Specialist at APPLICA.AI"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dawid Wiśniewski"
+  name             : "MSc Eng Dawid Wiśniewski"
   avatar           : "profile.png"
   bio              : "Research & teaching assistant at Poznan University of Technology / Senior Deep Learning Specialist at APPLICA.AI"
   location         : "Poznan, Poland"
