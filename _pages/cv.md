@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D Computing, Poznan University of Technology, Poland, 10.2016-now
+* M.S. Intelligent Decision Support Systems -- Computing, Poznan University of Technology, Poland, 02.2013-06.2014
+* B.S. Computing, Poznan University of Technology, Poland, 10.2009-02.2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* APPLICA.AI - Senior Deep Learning Specialist (07.2018-now)
+  * Developing Neural Language Models using PyTorch
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Poznan University of Technology - Research and Teaching Assistant (10.2017-now)
+  * Co-creator of Natural Language Processing course at Poznan University of Technology
+  * Teaching:
+    * Natural Language Processing (labs): summer 2018, summer 2019
+
+* Samsung Electronics Poland - Text Mining Engineer (07.2013-2016)
+  * Software Developer / Tech Lead (03.2016-12.2016)
+    * Building Information Extraction Systems
+    * Building simple dialog system
+  * Junior Software Developer (Text Mining) (07.2014-03.2016)
+    * Building hierarchical classifiers
+  * Trainee (07.2013 - 06.2014)
+    * Building hierarchical classifiers
+
 
 Publications
 ======
@@ -42,18 +41,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
