@@ -8,7 +8,6 @@ date: 2018-02-25
 location: "Poznan, Poland"
 ---
 
-======
 
 A 30 hours long practical course on natural language processing, conveying:
 

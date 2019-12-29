@@ -9,8 +9,6 @@ location: "Poznan, Poland"
 ---
 
 
-======
-
 A practical introduction into the field of machine learning.
 
 * Linear Regression
