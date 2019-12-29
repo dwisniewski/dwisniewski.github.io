@@ -1,30 +1,23 @@
 ---
-title: "Natural Language Processing (labs), summer 2017"
+title: "Artificial Intelligence (labs), winter 2017/2018"
 collection: teaching
 type: "Labs"
-permalink: /teaching/2017-spring-teaching-1
+permalink: /teaching/2017-winter-teaching-1
 venue: "Poznan University of Technology, Poland, Faculty of Computing"
 date: 2017-02-25
 location: "Poznan, Poland"
 ---
 
+
 ======
 
-A 30 hours long practical course on natural language processing, conveying:
+A practical introduction into the field of machine learning.
 
-* Regular expressions
-* Text classification with bag of words and TF-IDF
-* Word Embeddings
-* Natural language generation with Markov Chains
-* Recurrent and convolutional neural networks for text classification
-* Conditional Random Fields for the problem of Named Entity Recognition
-* Topic detection with Latent Dirichlet Allocation
-* Text summarization with key-sentence selection
-* Textual resources collecting by crawling and HTML parsing
-
-
+* Linear Regression
+* Logistic Regression
+* Neural Nets and their appliations
 
 Used technologies
 ======
 
-Python, Google Colaboratory, NumPy, SKLearn, Gensim, Keras, NLTK, SpaCy
+Python, NumPy, Keras
