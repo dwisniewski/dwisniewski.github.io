@@ -1,0 +1,31 @@
+---
+title: "Natural Language Processing (labs)"
+collection: teaching
+type: "Labs"
+permalink: /teaching/2017-spring-teaching-1
+venue: "Poznan University of Technology, Poland, Faculty of Computing"
+date: 2017-02-25
+location: "Poznan, Poland"
+---
+
+Course description
+======
+
+A 30 hours long practical course on natural language processing, conveying:
+
+* Regular expressions
+* Text classification with bag of words and TF-IDF
+* Word Embeddings
+* Natural language generation with Markov Chains
+* Recurrent and convolutional neural networks for text classification
+* Conditional Random Fields for the problem of Named Entity Recognition
+* Topic detection with Latent Dirichlet Allocation
+* Text summarization with key-sentence selection
+* Textual resources collecting by crawling and HTML parsing
+
+
+
+Used technologies
+======
+
+Python, Google Colaboratory, NumPy, SKLearn, Gensim, Keras, NLTK, SpaCy
