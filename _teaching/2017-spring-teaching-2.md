@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Processing (labs)"
+title: "Natural Language Processing (labs), summer 2017"
 collection: teaching
 type: "Labs"
 permalink: /teaching/2017-spring-teaching-1
@@ -8,7 +8,6 @@ date: 2017-02-25
 location: "Poznan, Poland"
 ---
 
-Course description
 ======
 
 A 30 hours long practical course on natural language processing, conveying:
