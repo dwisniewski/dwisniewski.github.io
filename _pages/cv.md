@@ -22,8 +22,14 @@ Work experience
 
 * Poznan University of Technology - Research and Teaching Assistant (10.2017-now)
   * Co-creator of Natural Language Processing course at Poznan University of Technology
-  * Teaching:
-    * Natural Language Processing (labs): summer 2018, summer 2019
+  * Teacher of practical classes in the field of Natural Language Processing and Machine Learning
+  * Co-supervisor of bachelor and master theses:
+    * Master Thesis; Knowledge extraction from Stack Overflow; 2017
+    * Bachelor Thesis: The system recommending answers for questions in a Q&A website; 2018
+    * Bachelor Thesis: Identification and classification of toxic comments related to changes of Wikipedia pages; 2019
+    * Bachelor Thesis: Semantic knowledge extraction from cybersecurity reports; 2019
+    * Bachelor Thesis: Cooking recipes generator utilizing a deep learning-based language model; 2020
+    * Master Thesis: A web crawler extracting mentions about restaurants; 2020
 
 * Samsung Electronics Poland - Text Mining Engineer (07.2013-2016)
   * Software Developer / Tech Lead (03.2016-12.2016)
