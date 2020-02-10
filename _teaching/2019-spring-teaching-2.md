@@ -7,12 +7,9 @@ venue: "Poznan University of Technology, Poland, Faculty of Computing"
 date: 2019-02-25
 location: "Poznan, Poland"
 ---
-
 A 30 hours long practical course on natural language processing
 
-
 Topics covered:
-
 * Regular expressions
 * Text classification with bag of words and TF-IDF
 * Word Embeddings
@@ -25,5 +22,4 @@ Topics covered:
 
 
 Technologies used:
-
 Python, Google Colaboratory, NumPy, SKLearn, Gensim, Keras, NLTK, SpaCy
