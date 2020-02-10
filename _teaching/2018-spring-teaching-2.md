@@ -9,7 +9,9 @@ location: "Poznan, Poland"
 ---
 
 
-A 30 hours long practical course on natural language processing, conveying:
+A 30 hours long practical course on natural language processing
+
+Topics covered:
 
 * Regular expressions
 * Text classification with bag of words and TF-IDF
@@ -22,8 +24,6 @@ A 30 hours long practical course on natural language processing, conveying:
 * Textual resources collecting by crawling and HTML parsing
 
 
-
-Used technologies
-======
+Technologies used:
 
 Python, Google Colaboratory, NumPy, SKLearn, Gensim, Keras, NLTK, SpaCy

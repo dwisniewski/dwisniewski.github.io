@@ -11,11 +11,12 @@ location: "Poznan, Poland"
 
 A practical introduction into the field of machine learning.
 
+Topics covered:
+
 * Linear Regression
 * Logistic Regression
 * Neural Nets and their appliations
 
-Used technologies
-======
+Technologies used:
 
 Python, NumPy, Keras
