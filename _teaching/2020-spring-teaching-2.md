@@ -1,10 +1,10 @@
 ---
-title: "Natural Language Processing (labs), summer 2017/2018"
+title: "Natural Language Processing (labs), summer 2019/2020"
 collection: teaching
 type: "Labs"
-permalink: /teaching/2018-spring-teaching-1
+permalink: /teaching/2019-spring-teaching-1
 venue: "Poznan University of Technology, Poland, Faculty of Computing"
-date: 2018-02-25
+date: 2019-02-25
 location: "Poznan, Poland"
 ---
 A 30 hours long practical course on natural language processing
@@ -19,6 +19,7 @@ Topics covered:
 * Topic detection with Latent Dirichlet Allocation
 * Text summarization with key-sentence selection
 * Textual resources collecting by crawling and HTML parsing
+
 
 Technologies used:
 Python, Google Colaboratory, NumPy, SKLearn, Gensim, Keras, NLTK, SpaCy

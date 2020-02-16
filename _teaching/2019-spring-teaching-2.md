@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Processing (labs), summer 2019"
+title: "Natural Language Processing (labs), summer 2018/2019"
 collection: teaching
 type: "Labs"
 permalink: /teaching/2019-spring-teaching-1
