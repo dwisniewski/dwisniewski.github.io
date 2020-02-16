@@ -44,12 +44,13 @@ Publications
 
 Theses I adivsed
 ======
-    * Master Thesis: A web crawler extracting mentions about restaurants; 2020
-    * Bachelor Thesis: Cooking recipes generator utilizing a deep learning-based language model; 2020
-    * Bachelor Thesis: Semantic knowledge extraction from cybersecurity reports; 2019
-    * Bachelor Thesis: Identification and classification of toxic comments related to changes of Wikipedia pages; 2019
-    * Bachelor Thesis: The system recommending answers for questions in a Q&A website; 2018
-    * Master Thesis; Knowledge extraction from Stack Overflow; 2017
+* Master Thesis: A web crawler extracting mentions about restaurants; 2020
+* Bachelor Thesis: Cooking recipes generator utilizing a deep learning-based language model; 2020
+* Bachelor Thesis: Semantic knowledge extraction from cybersecurity reports; 2019
+* Bachelor Thesis: Identification and classification of toxic comments related to changes of Wikipedia pages; 2019
+* Bachelor Thesis: The system recommending answers for questions in a Q&A website; 2018
+* Master Thesis; Knowledge extraction from Stack Overflow; 2017
+
 
 
 Teaching
