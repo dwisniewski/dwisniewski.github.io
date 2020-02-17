@@ -9,4 +9,7 @@ redirect_from:
 ---
 Hi, my name is Dawid Wiśniewski.
 
-I'm a 4th year PhD student at Poznań University of Poland, Poznan. My research interests focus on machine learning, knowledge graphs, computational linguistics. Since 2013, I'm working in business as a machine learning developer.
+I'm a PhD student at the Faculty of Computing and Telecomunication, Poznan University of Technology Poland and Senior Deep Learning Developer at APPLICA.AI.
+In my PhD thesis, I'm trying to translate natural language questions into SPARQL-OWL queries to make the ontology authoring process easier and quicker to perform.
+
+My research interests focus on machine learning, knowledge graphs, computational linguistics.
