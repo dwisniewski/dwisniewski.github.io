@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dawid Wisniewski, PhD candidate, Senior Deep Learning Specialist"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
